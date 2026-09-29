@@ -4,7 +4,7 @@ An interactive Power BI report analyzing 2024–2026 sales across 8 MENA countri
 
 ## Business Problem
 
-Management needed a clear view of which countries and product categories drive revenue and which are declining, while each country manager sees only their own market's data.
+Scenario: a sales team needs a clear view of which countries and product categories drive revenue and which are declining, while each country manager sees only their own market's data.
 
 ## Report Pages
 
@@ -68,6 +68,20 @@ IF(
 - Investigate the decline in Home Appliances and Mobile Devices.
 - Review low-contribution sub-categories for consolidation.
 
+## Data
+
+Training dataset provided as part of a data analysis course (for demonstration purposes).
+
+- **SalesTransactions:** order date, customer, category, sub-category, quantity, gross and net sales, discount
+- **CustomerDetails:** customer, country, city, signup date
+- **Date:** calendar table created in DAX and marked as a date table
+
+
 ## Tools
 
 Power BI Desktop · DAX · Time Intelligence · Row-Level Security · Conditional Formatting
+
+## Author
+
+**[NADA AL-SUWEHRI‏]** | Data Analyst
+[LinkedIn](https://www.linkedin.com/in/nada-al-suwehri-363b33315/) · [GitHub](https://github.com/NadaMouhana)
