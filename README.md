@@ -19,6 +19,11 @@ Scenario: a sales team needs a clear view of which countries and product categor
 
 A country manager sees only their own market. Even the fixed-total customer measures respect the role.
 
+### 4. Data Model
+![Data Model](images/data-model.png)
+
+Date and customer tables related to the SalesTransactions fact table.
+
 ## Key Features
 
 - Country and year slicers driving all visuals
@@ -83,5 +88,6 @@ Power BI Desktop · DAX · Time Intelligence · Row-Level Security · Conditiona
 
 ## Author
 
-**[NADA AL-SUWEHRI‏]** | Data Analyst
-[LinkedIn](https://www.linkedin.com/in/nada-al-suwehri-363b33315/) · [GitHub](https://github.com/NadaMouhana)
+**NADA AL-SUWEHRI‏** | Data Analyst
+[LinkedIn](https://www.linkedin.com/in/nada-al-suwehri-363b33315/)
+· [GitHub](https://github.com/NadaMouhana)
